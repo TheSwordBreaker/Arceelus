@@ -628,6 +628,10 @@ video {
   z-index: 10;
 }
 
+.z-\[100\] {
+  z-index: 100;
+}
+
 .col-span-full {
   grid-column: 1 / -1;
 }
